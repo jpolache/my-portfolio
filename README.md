@@ -1,2 +1,2 @@
-# my-portfolio
-this is my professional portfolio
+# Jonathan Polacheck's professional portfolio
+This is my professional portfolio. It uses AWS and Reactjs
